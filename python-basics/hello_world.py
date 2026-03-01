@@ -3,6 +3,7 @@
 
 def main():
     print("Hello, Mechatronics World!")
+    print("Kerubo Systems is officially live.")
 
 if __name__ == "__main__":
     main()
